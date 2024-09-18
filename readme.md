@@ -1,7 +1,7 @@
 # Introduction
 
 The code is used for demonstration purposes of KAN only.
-Most of the code are modified from the original KAN document by Dr.Kang Ruiyuan.
+Most of the code are modified from the original KAN document, by Dr.Kang Ruiyuan@TII.
 
 # Structure
 in totol, five examples are provided herein, and stored into five folders,respectively. In each code,a general description and necessary comments are provided inside the python code.
