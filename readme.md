@@ -4,11 +4,11 @@ The code is used for demonstration purposes of KAN only.
 Most of the code are modified from the original KAN document, by Dr.Kang Ruiyuan@TII.
 
 # Structure
-in totol, five examples are provided herein, and stored into five folders,respectively. In each code,a general description and necessary comments are provided inside the python code.
+in total, five examples are provided herein, and stored into five folders,respectively. In each folder,a general description and necessary comments are provided inside the python code.
 
 fit_case1: where we showed how KAN could be used for fitting the data generated from a simple function, and how to extract physical insights from KAN
 
-mass_velocity_1: where we showed that although KAN can fit the data from Einstein's mass-velocity equation well from scractch, it may be not physically meaningful and generalizable.
+mass_velocity_1: where we showed that although KAN can fit the data from Einstein's mass-velocity equation well from scratch, it may be not physically meaningful and generalizable.
 
 mass_velocity_2: where we showed that by incooperating with domain knowledge-driven features, KAN could rediscover the Einstein's mass-velocity equation
 
