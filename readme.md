@@ -14,7 +14,7 @@ mass_velocity_2: where we showed that by incooperating with domain knowledge-dri
 
 mass_velocity_3: where we showed that if uncertainty exists between data and theory, how to embed the theory into the KAN, and finetune it to learn the uncertainty.
 
-Beer_Lambert_law: where we compared the symolic learning performance between KAN and PySR.
+Beer_Lambert_law: where we compared the symbolic learning performance between KAN and PySR.
 
 # Requirements
 In order to provide a simple operation condition, we tested the code on a windows machine without GPU.
